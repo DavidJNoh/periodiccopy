@@ -1,0 +1,75 @@
+.bg{
+    background-color: white;
+    width: 1360px;
+    height: auto;
+    padding: 5px 5px 10px 5px;
+}
+.element{
+    text-align: center;
+    vertical-align: top;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    margin: 2px;
+    outline: silver 1px solid;
+}
+.empty{
+    outline: none;
+}
+.blue{
+    background-color: rgb(136, 136, 248);
+}
+.yellow{
+    background-color: rgb(240, 240, 8);
+}
+.green{
+    background-color: rgb(26, 184, 26);
+    vertical-align: top;
+}
+.slim{
+    width: 5px;
+    height: 60px;
+    display: inline-block;
+    margin: 2px;
+}
+.white{
+    background-color: white;
+}
+.pink{
+    background-color: pink;
+}
+h4{
+    display: inline-block;
+    height: 25px;
+    margin: 2;
+    padding: 20px;
+    vertical-align: top;
+    text-align: center;
+    width: 156px;
+    color: red;
+}
+.slimword{
+    width: 5px;
+    height: 41px;
+    display: inline-block;
+    margin: 2px;
+    text-align: right;
+    padding-top: 19px;
+    color: red;
+}
+.word{
+    color: red;
+    outline:none;
+    text-align: center;
+    margin-top: 21px;
+    height:auto;
+}
+.rowbot{
+    margin-top: 25px;
+}
+span{
+    font-weight: bolder;
+    color: darkblue;
+}
+
+
